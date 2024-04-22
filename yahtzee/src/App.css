@@ -3,15 +3,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .App-title {
-  margin-top: 1rem;
+  margin-top:0;
+  margin-bottom:0;
   color: white;
-  margin-bottom: 0;
-  font-weight: 100;
+  font-weight: 300;
   display: inline-block;
-  font-size: 5rem;
+  font-size: 4rem;
   width: 50%;
+  max-height: 1em;
 }
