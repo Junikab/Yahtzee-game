@@ -17,7 +17,7 @@ Once a combination has been used in the game, it cannot be used again.
 4. **Score Your Roll**: After the rolls are complete, choose a scoring category for your roll. Each category can only be used once.
 5. **End Game**: The game ends once all scoring categories have been filled. The player with the highest total score wins.
 
-
+![Yahtzee](Yahtzee.gif)
 
 
 ## Built With
