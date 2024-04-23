@@ -1,6 +1,6 @@
 {
     "name": "yahtzee",
-    "homepage": "http://Junikab.github.io/Yahtzee-game",
+    "homepage": "http://junikab.github.io/Yahtzee-game",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
